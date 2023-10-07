@@ -6,7 +6,7 @@ recuperara en segundos o minuto si quieres tumbar una web por mas
 tiempo usa botnets o con ayuda de compañeros. !ALERTA¡ esta 
 herramienta es ilegal usala bajo tu responsabilidad no sere
 el responsable de cualquier uso ilegal o mal uso contra un
-govierno o empresas.
+gobierno o empresas.
 
 GRACIAS POR USAR MI HERRAMIENTA 
 
